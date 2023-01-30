@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51011098-50b5-488f-8e9e-9a1d3b629199" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/src/main/java/io/github/semih/consumer/ConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/src/main/java/io/github/semih/consumer/KafkaConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/src/main/java/io/github/semih/consumer/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/src/main/java/io/github/semih/consumer/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/src/test/java/io/github/semih/consumer/ConsumerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/classes/io/github/semih/consumer/ConsumerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/classes/io/github/semih/consumer/KafkaConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/classes/io/github/semih/consumer/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/classes/io/github/semih/consumer/MessageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/consumer-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/consumer-1.0.0.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/surefire-reports/TEST-io.github.semih.consumer.ConsumerApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/surefire-reports/io.github.semih.consumer.ConsumerApplicationTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/test-classes/io/github/semih/consumer/ConsumerApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/main/java/io/github/semih/producer/KafkaConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/main/java/io/github/semih/producer/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/main/java/io/github/semih/producer/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/main/java/io/github/semih/producer/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/main/java/io/github/semih/producer/ProducerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer/src/test/java/io/github/semih/producer/ProducerApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/producer" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KHxmz7c7rhV5SahwNOym4VoICn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "/Users/solvia/github/kafka-demo/consumer/src/main/java/io/github/semih/consumer",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15429688",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "spring.configuration.checksum": "eccbcceec70a7ed9288ff28fecd23e26",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/consumer/src/main/java/io/github/semih/consumer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.github.semih.consumer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConsumerApplication">
+    <configuration name="kafka-test-rest-api | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" singleton="false" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_4.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.github.semih.consumer.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.github.semih.producer.ProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.kafka-test-rest-api | #1" />
+      <item itemvalue="Spring Boot.ConsumerApplication" />
+      <item itemvalue="Spring Boot.ProducerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.kafka-test-rest-api | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51011098-50b5-488f-8e9e-9a1d3b629199" name="Changes" comment="" />
+      <created>1673645472465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673645472465</updated>
+      <workItem from="1673645473828" duration="10741000" />
+      <workItem from="1673800521346" duration="11921000" />
+      <workItem from="1674115763658" duration="657000" />
+      <workItem from="1675113329155" duration="778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

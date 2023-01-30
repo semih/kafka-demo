@@ -1,0 +1,381 @@
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "DENEME-TOPIC-11" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "DENEME-TOPIC-10" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "DENEME-TOPIC-10" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "DENEME-TOPIC-9" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "DENEME-TOPIC-8" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "DENEME-TOPIC-7" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "DENEME-TOPIC-6" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "DENEME-TOPIC-5" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "DENEME-TOPIC-4" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "DENEME-TOPIC-3" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "DENEME-TOPIC-2" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "DENEME-TOPIC" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "messageText": "SA21321", "url": "http://ABC:9092" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "messageText": "SA21321", "url": "http://localhost:9092" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "messageText": "SA21321", "url": "http://localhost:9092" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "messageText": "SA21321", "url": "http://localhost:9092" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "messageText": "ZZZ2002", "url": "http://localhost:9092" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "messageText": "ZZZ2002", "url": "http://localhost:9092" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "messageText": "ZZZ2002", "url": "http://localhost:9092" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "messageText": "ABC100DEF200", "url": "http://localhost:9092" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "messageText": "ABC100DEF200", "url": "http://localhost:9092" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "messageText": "deneme 30", "url": "http://localhost:9092" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "deneme 30", "url": "http://localhost:9092" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "deneme 30", "url": "http://localhost:9092" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "deneme 29", "url": "http://localhost:9092" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "5467 executed", "url": "http://localhost:9092" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "5467 executed", "url": "http://localhost:9092" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "5467 executed" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "deafa231231 executed with Config" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "abc executed with Config" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "9999 executed with Config" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+
+{ "message": "9999 executed with Config" }
+
+<> 2023-01-14T021834.415.json
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "10232 executed with json deserializer" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "executed with string deserializer" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "new topic" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "message": "abc" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "id" : "4", "name": "name", "surname": "surname" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "id" : "4", "name": "name", "surname": "surname" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "id" : "3", "name": "abc", "surname": "def" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "id" : "2", "name": "serdar", "surname": "demirci" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "id" : "1", "name": "semih", "surname": "kirdinli" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+Content-Type: application/json
+
+{ "id" : "1", "name": "semih", "surname": "kirdinli" }
+
+###
+
+POST http://localhost:8080/kafka
+Accept: application/json
+
+{ "id" : "1", "name": "semih", "surname": "kirdinli" }
+
+<> 2023-01-14T012756.415.json
+
+###
+
+POST http://localhost:8080/kafka/deneme9
+Accept: application/json
+
+###
+
+POST http://localhost:8080/kafka/deneme8
+Accept: application/json
+
+###
+
+POST http://localhost:8080/kafka/deneme7
+Accept: application/json
+
+###
+
+POST http://localhost:8080/kafka/deneme6
+Accept: application/json
+
+###
+
+POST http://localhost:8080/kafka/deneme5
+Accept: application/json
+
+###
+
+POST http://localhost:8080/kafka/deneme4
+Accept: application/json
+
+###
+
+POST http://localhost:8080/kafka/deneme3
+Accept: application/json
+
+###
+
